@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QFCCXznDuqeDgh4WicdPbrT6F8BfGd5HJ0OsylZ/nyAENidsT9Ccg+mafBmrkPne7YUr+QyMqbAlpjsA1IezJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Email Classifier\\Email Classifier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\mstest.testframework\\3.0.2\\mstest.testframework.3.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,32 @@
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\Email Classifier.exe
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\Email Classifier.deps.json
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\Email Classifier.runtimeconfig.json
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\Email Classifier.dll
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\Email Classifier.pdb
+C:\Users\User\source\repos\Email Classifier\obj\Debug\net7.0\Email Classifier.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Email Classifier\obj\Debug\net7.0\Email Classifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Email Classifier\obj\Debug\net7.0\Email Classifier.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Email Classifier\obj\Debug\net7.0\Email Classifier.AssemblyInfo.cs
+C:\Users\User\source\repos\Email Classifier\obj\Debug\net7.0\Email Classifier.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Email Classifier\obj\Debug\net7.0\Email Classifier.dll
+C:\Users\User\source\repos\Email Classifier\obj\Debug\net7.0\refint\Email Classifier.dll
+C:\Users\User\source\repos\Email Classifier\obj\Debug\net7.0\Email Classifier.pdb
+C:\Users\User\source\repos\Email Classifier\obj\Debug\net7.0\Email Classifier.genruntimeconfig.cache
+C:\Users\User\source\repos\Email Classifier\obj\Debug\net7.0\ref\Email Classifier.dll
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\source\repos\Email Classifier\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\source\repos\Email Classifier\obj\Debug\net7.0\Email Classifier.csproj.CopyComplete
